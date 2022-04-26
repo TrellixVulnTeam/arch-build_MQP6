@@ -9,7 +9,7 @@ jobs:
   buildAUR:
     strategy:
       matrix:
-        repos: [zramd, qqmusic-bin, debtap]
+        repos: [zramd, qqmusic-bin, mongodb-bin]
 
       fail-fast: false
       
